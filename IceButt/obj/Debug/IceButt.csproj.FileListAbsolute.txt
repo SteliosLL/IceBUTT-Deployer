@@ -1,0 +1,17 @@
+F:\stuff\IceButt\IceButt\obj\Debug\IceButt.csproj.AssemblyReference.cache
+F:\stuff\IceButt\IceButt\obj\Debug\IceButt.editPassFrm.resources
+F:\stuff\IceButt\IceButt\obj\Debug\IceButt.Form1.resources
+F:\stuff\IceButt\IceButt\obj\Debug\IceButt.Properties.Resources.resources
+F:\stuff\IceButt\IceButt\obj\Debug\IceButt.recieverInstallConfg.resources
+F:\stuff\IceButt\IceButt\obj\Debug\IceButt.csproj.GenerateResource.cache
+F:\stuff\IceButt\IceButt\obj\Debug\IceButt.csproj.CoreCompileInputs.cache
+F:\stuff\IceButt\IceButt\bin\Debug\IceButt.exe.config
+F:\stuff\IceButt\IceButt\bin\Debug\IceButt.exe
+F:\stuff\IceButt\IceButt\bin\Debug\IceButt.pdb
+F:\stuff\IceButt\IceButt\obj\Debug\IceButt.exe
+F:\stuff\IceButt\IceButt\obj\Debug\IceButt.pdb
+F:\stuff\IceButt\IceButt\obj\Debug\Interop.IWshRuntimeLibrary.dll
+F:\stuff\IceButt\IceButt\obj\Debug\IceButt.csproj.ResolveComReference.cache
+F:\stuff\IceButt\IceButt\obj\Debug\IceButt.pleaseWaitFrm.resources
+F:\stuff\IceButt\IceButt\obj\Debug\IceButt.infoFrm.resources
+F:\stuff\IceButt\IceButt\obj\Debug\IceButt.senderHelpFrm.resources
