@@ -32,6 +32,7 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.refreshBtn = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.IPstaticNotifLbl = new System.Windows.Forms.Label();
             this.modifySenderConfBtn = new System.Windows.Forms.Button();
             this.remVbBtn = new System.Windows.Forms.Button();
             this.remButtBtn = new System.Windows.Forms.Button();
@@ -72,7 +73,6 @@
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.recieverGrpBox = new System.Windows.Forms.GroupBox();
             this.startRecievingBtn = new System.Windows.Forms.Button();
-            this.IPstaticNotifLbl = new System.Windows.Forms.Label();
             this.refreshingLbl = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
             this.groupBox1.SuspendLayout();
@@ -117,6 +117,17 @@
             this.groupBox1.TabIndex = 2;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Set as Sender";
+            // 
+            // IPstaticNotifLbl
+            // 
+            this.IPstaticNotifLbl.AutoSize = true;
+            this.IPstaticNotifLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(161)));
+            this.IPstaticNotifLbl.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.IPstaticNotifLbl.Location = new System.Drawing.Point(16, 91);
+            this.IPstaticNotifLbl.Name = "IPstaticNotifLbl";
+            this.IPstaticNotifLbl.Size = new System.Drawing.Size(158, 13);
+            this.IPstaticNotifLbl.TabIndex = 25;
+            this.IPstaticNotifLbl.Text = "-IP NEEDS TO BE STATIC";
             // 
             // modifySenderConfBtn
             // 
@@ -527,7 +538,6 @@
             this.noteLbl.Size = new System.Drawing.Size(261, 13);
             this.noteLbl.TabIndex = 8;
             this.noteLbl.Text = "NOTE: Click the gear icon to modify the configuration.";
-            this.noteLbl.Visible = false;
             // 
             // toolTip1
             // 
@@ -558,17 +568,6 @@
             this.startRecievingBtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.startRecievingBtn.UseVisualStyleBackColor = true;
             this.startRecievingBtn.Click += new System.EventHandler(this.startRecievingBtn_Click);
-            // 
-            // IPstaticNotifLbl
-            // 
-            this.IPstaticNotifLbl.AutoSize = true;
-            this.IPstaticNotifLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(161)));
-            this.IPstaticNotifLbl.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.IPstaticNotifLbl.Location = new System.Drawing.Point(16, 91);
-            this.IPstaticNotifLbl.Name = "IPstaticNotifLbl";
-            this.IPstaticNotifLbl.Size = new System.Drawing.Size(158, 13);
-            this.IPstaticNotifLbl.TabIndex = 25;
-            this.IPstaticNotifLbl.Text = "-IP NEEDS TO BE STATIC";
             // 
             // refreshingLbl
             // 

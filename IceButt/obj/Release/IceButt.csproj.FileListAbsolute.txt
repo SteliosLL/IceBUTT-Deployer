@@ -15,3 +15,20 @@ F:\stuff\IceButt\IceButt\obj\Release\IceButt.csproj.CoreCompileInputs.cache
 F:\stuff\IceButt\IceButt\obj\Release\IceButt.exe
 F:\stuff\IceButt\IceButt\obj\Release\IceButt.pdb
 F:\stuff\IceButt\IceButt\obj\Release\IceButt.senderHelpFrm.resources
+C:\Users\stelios x58\Documents\GitHub\IceBUTT-Deployer\IceButt\bin\Release\IceBUTT.exe.config
+C:\Users\stelios x58\Documents\GitHub\IceBUTT-Deployer\IceButt\bin\Release\IceBUTT.exe
+C:\Users\stelios x58\Documents\GitHub\IceBUTT-Deployer\IceButt\bin\Release\IceBUTT.pdb
+C:\Users\stelios x58\Documents\GitHub\IceBUTT-Deployer\IceButt\obj\Release\IceButt.csproj.AssemblyReference.cache
+C:\Users\stelios x58\Documents\GitHub\IceBUTT-Deployer\IceButt\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\stelios x58\Documents\GitHub\IceBUTT-Deployer\IceButt\obj\Release\IceButt.csproj.ResolveComReference.cache
+C:\Users\stelios x58\Documents\GitHub\IceBUTT-Deployer\IceButt\obj\Release\IceButt.editPassFrm.resources
+C:\Users\stelios x58\Documents\GitHub\IceBUTT-Deployer\IceButt\obj\Release\IceButt.Form1.resources
+C:\Users\stelios x58\Documents\GitHub\IceBUTT-Deployer\IceButt\obj\Release\IceButt.infoFrm.resources
+C:\Users\stelios x58\Documents\GitHub\IceBUTT-Deployer\IceButt\obj\Release\IceButt.pleaseWaitFrm.resources
+C:\Users\stelios x58\Documents\GitHub\IceBUTT-Deployer\IceButt\obj\Release\IceButt.Properties.Resources.resources
+C:\Users\stelios x58\Documents\GitHub\IceBUTT-Deployer\IceButt\obj\Release\IceButt.recieverInstallConfg.resources
+C:\Users\stelios x58\Documents\GitHub\IceBUTT-Deployer\IceButt\obj\Release\IceButt.senderHelpFrm.resources
+C:\Users\stelios x58\Documents\GitHub\IceBUTT-Deployer\IceButt\obj\Release\IceButt.csproj.GenerateResource.cache
+C:\Users\stelios x58\Documents\GitHub\IceBUTT-Deployer\IceButt\obj\Release\IceButt.csproj.CoreCompileInputs.cache
+C:\Users\stelios x58\Documents\GitHub\IceBUTT-Deployer\IceButt\obj\Release\IceBUTT.exe
+C:\Users\stelios x58\Documents\GitHub\IceBUTT-Deployer\IceButt\obj\Release\IceBUTT.pdb
