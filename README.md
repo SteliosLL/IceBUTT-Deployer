@@ -34,7 +34,7 @@ IceBUTT Deployer has been tested to work with the following versions of each pro
   
    -VBCable 2.1.5.8 64bit
   
-<ins>**The zip file in the Releases, contains the programs (Icecast, BUTT etc) prepackaged.**</ins>
+<ins>**The zip file in the Releases contains the programs (Icecast, BUTT etc) prepackaged.**</ins>
 
 You can replace the installer files in the "icebutt_software" folder with a newer version of these programs but it is 
 not recommended since the behavior may be unexpected or outright not work.
