@@ -123,7 +123,7 @@ another computer or more.
 I decided to call this set of programs and the configuration, IceBUTT.
 
 On the sender computer it installs and configurates 2 programs, one called Icecast which is used to stream the 
-audio which is then picked up by the reciever device, and the other BUTT, which is what "picks up" the audio 
+audio that is then picked up by the reciever device, and the other BUTT, which is what "picks up" the audio 
 from your computer and sends it to Icecast to be streamed.
 On the reciever computer(s) it installs and configurates VLC to open and play that stream.
 

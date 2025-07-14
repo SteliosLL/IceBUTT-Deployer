@@ -67,9 +67,9 @@
             this.label2.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(161)));
             this.label2.Location = new System.Drawing.Point(4, 341);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(512, 17);
+            this.label2.Size = new System.Drawing.Size(520, 17);
             this.label2.TabIndex = 3;
-            this.label2.Text = "IceButt Deployer has been tested to work with the following versions of each prog" +
+            this.label2.Text = "IceBUTT Deployer has been tested to work with the following versions of each prog" +
     "ram:\r\n";
             // 
             // label5
