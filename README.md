@@ -19,7 +19,7 @@ On the reciever computer(s) it installs and configurates VLC to open and play th
 The deployed programs and configuration ensure that the connection is not lost and when an error occurs due to 
 external factors (like a dropped internet connection) it will still keep trying to reconnect and resume streaming or 
 playing. The bitrate, compression and other settings are configured so that the stream never cuts and keeps 
-playing continually even on flaky internet connections. Priority is an uninterrupted and smooth playing stream, 
+playing continuously even on flaky internet connections. Priority is an uninterrupted and smooth playing stream, 
 not low latency and highest audio quality.
 These settings can be changed through BUTT's settings window.
 
